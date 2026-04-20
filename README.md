@@ -1,7 +1,7 @@
 # toxwatch
 # ToxWatch — Academic Research Project
 
-Bachelor's thesis project at [University Name], Faculty of [X], 2026.
+Bachelor's thesis project at Academy of Econpmic Studies Bucharest, Faculty of  Cybernetics, Statistics and Economic Informatics, 2026.
 
 **Title:** Application for the detection and analysis of online violence phenomena
 
