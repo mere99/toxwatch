@@ -42,4 +42,4 @@ and will not be redistributed.
 
 The full source code is maintained in a private repository during the thesis
 defense period (academic integrity requirement). Access can be granted to
-Reddit's API review team on request via email at [EMAILUL_TAU].
+Reddit's API review team on request via email at andreea3mz@gmail.com
